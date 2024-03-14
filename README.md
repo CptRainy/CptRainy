@@ -1,20 +1,72 @@
-<h1 align="center">Hi 👋, I'm Renee</h1>
-<h3 align="center">A passionate programmer from the Philippines that aims to create projects to aid people.</h3>
+<style>
+h1, h2, h3, th, b {
+    background: linear-gradient(to right, #93BBE0, #F47FBB);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
 
-- 🔭 I’m currently working on **IskolarLink, TPG Website**
+h1 {
+  text-align:center;
+}
+</style>
 
-- 📫 How to reach me **renee.j.sarmiento@gmail.com**
+![banner](assets\banner.png)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/cptrainy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cptrainy" height="30" width="40" /></a>
-</p>
+# Welcome To My Profile!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🪐 𝓢𝓱𝓸𝓻𝓽 𝓑𝓲𝓸 
+- 👩🏽‍🎓 4th Year BS Information Technology Student from the Polytechnic University of the Philippines - Main Campus. 
+- 🎮 Hobbies are Voxel Art, Learning Languages with Duolingo, Coding, and Cozy Games
+<center>
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@cptrainy/30-nites-of-code)  
-  ![@cptrainy #30NitesOfCode](https://www.codedex.io/api/petStatus?user=cptrainy)
+| ✨ Sample Voxel Arts |
+|:---:|
+|<img src="assets\vox_art1.jpg" width="200" height="200"><img src="assets\vox_art2.gif" width="300" height="200">|
 
-  It evolved!
+</center>
+
+- 💻 Organizations: 
+  - PUP College of Computer and Information Sciences Student Council
+  - PUP The Programmers' Guild
+  - Google Developers Student Club - PUP Main
+  - AWS Cloud Club - PUP Manila 
+
+
+## 🪐 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼
+
+| 🔭 List of Projects |
+| :--- |
+| <b>IskolarLink (2023 - 2024)</b> <br/> Role: Frontend Developer<br/>Tech Stacks: HTML, CSS, JavaScript, React, React Bootstrap, Nodejs, MySQL <br/><br/> This project is my capstone for my BSIT program. It is a centralized platform for student organizations of PUP Main Campus be able to get accredited or revalidated, be easily searchable to students through filters, manage their memberships, and post announcements. The repo is currently on private due to sensitive data.<br/>|
+| <b>TPG Website (In Progress)</b> <br/> Role: Project Manager and Frontend Assistant<br/>Tech Stacks: HTML, CSS, JavaScript, NextJS, React, TailwindCSS, TypeScript, RadixUI, Python, AWS, Serverless <br/><br/>This project is for PUP The Programmers' Guild. It aims to provide a platform for the organization to market itself to future members and partnerships/sponsorships. It will contain details about the organization, announcements regarding events, contact information, and membership details. The repo is on an organization group here in GitHub<br/>|
+
+## 🪐 Tech Stacks
+![Static Badge](https://img.shields.io/badge/Python---?style=for-the-badge&logo=Python&logoColor=black&color=white)
+![Static Badge](https://img.shields.io/badge/C%23---?style=for-the-badge&logo=Csharp&logoColor=black&color=white)
+![Static Badge](https://img.shields.io/badge/C---?style=for-the-badge&logo=C&logoColor=black&color=white)
+![Static Badge](https://img.shields.io/badge/JavaScript---?style=for-the-badge&logo=JavaScript&logoColor=black&color=white)
+![Static Badge](https://img.shields.io/badge/HTML---?style=for-the-badge&logo=HTML5&logoColor=black&color=white)
+![Static Badge](https://img.shields.io/badge/CSS---?style=for-the-badge&logo=CSS3&logoColor=black&color=white)
+![Static Badge](https://img.shields.io/badge/React---?style=for-the-badge&logo=React&logoColor=black&color=white)
+![Static Badge](https://img.shields.io/badge/Bootstrap---?style=for-the-badge&logo=Bootstrap&logoColor=black&color=white)
+![Static Badge](https://img.shields.io/badge/MySQL---?style=for-the-badge&logo=MySQL&logoColor=black&color=white)
+
+
+## 🪐 𝓕𝓵𝔂 𝔀𝓲𝓽𝓱 𝓜𝓮
+- ![Static Badge](https://img.shields.io/badge/gmail-renee.j.sarmiento%40gmail.com-purple?style=social&logo=Gmail&link=mailto%3Arenee.j.sarmiento%40gmail.com)
+- ![Static Badge](https://img.shields.io/badge/Discord-CptRainy-blue?style=social&logo=Discord&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F435769328059678720)
+- ![Static Badge](https://img.shields.io/badge/Duolingo-KapitanUlan-blue?style=social&logo=Duolingo&link=https%3A%2F%2Fwww.duolingo.com%2Fprofile%2FKapitanUlan)
+- ![Static Badge](https://img.shields.io/badge/FreeCodeCamp-CptRainy-black?style=social&logo=freecodecamp&color=white&link=https%3A%2F%2Fwww.freecodecamp.org%2FCptRainy)
+- ![Static Badge](https://img.shields.io/badge/Steam-cptrainy-black?style=social&logo=steam&color=white&link=https%3A%2F%2Fsteamcommunity.com%2Fid%2Fcptrainy%2F)
+
+
+
+
+## 🪐 The Friends We Made Along The Way
+
+<center>
+
+<a href="https://www.codedex.io/@cptrainy/30-nites-of-code" style="margin-right: 20px;">![@cptrainy #30NitesOfCode](https://www.codedex.io/api/petStatus?user=cptrainy)</a>
+<img src="https://duolingo-stats-card.vercel.app/api?username=KapitanUlan&theme=nightowl" alt="Duolingo Stats"/>
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</center>
