@@ -4,6 +4,7 @@
 ---
 - 👩🏽‍🎓 Fresh Grad of BS Information Technology Student from the Polytechnic University of the Philippines - Main Campus. 
 - 🎮 Hobbies are Voxel Art, Learning Languages with Duolingo, Coding, and Cozy Games
+- 🛜 Graduated in AWS Re/Start by Edukasyon.ph  - PHMAN23
 
 <div align="center">
 
@@ -13,13 +14,11 @@
 
 </div>
 
-- 💻 Organizations: 
+- 💻 Student Organizations I was Part of: 
   - PUP College of Computer and Information Sciences Student Council
   - PUP The Programmers' Guild
   - Google Developers Student Club - PUP Main
   - AWS Cloud Club - PUP Manila
-  - AWS Re/Start by Edukasyon.ph  - PHMAN23
-
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&duration=3000&pause=1000&color=F47FBB&vCenter=true&repeat=false&random=false&lines=%F0%9D%93%99%F0%9D%93%BE%F0%9D%93%BC%F0%9D%93%BD+%F0%9D%93%9A%F0%9D%93%AE%F0%9D%93%AE%F0%9D%93%B9+%F0%9D%93%92%F0%9D%93%B8%F0%9D%93%AD%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%B0)](https://git.io/typing-svg)
 
