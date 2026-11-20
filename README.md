@@ -1,10 +1,11 @@
-<img src="assets\banner.png">
+<img src="assets/banner.png">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&pause=1000&color=F47FBB&repeat=false&random=false&lines=+%F0%9D%93%A2%F0%9D%93%B1%F0%9D%93%B8%F0%9D%93%BB%F0%9D%93%BD+%F0%9D%93%91%F0%9D%93%B2%F0%9D%93%B8+)](https://git.io/typing-svg)
 ---
-- 👩🏽‍🎓 Fresh Grad of BS Information Technology Student from the Polytechnic University of the Philippines - Main Campus. 
+- ☁️ Currently working as a **Cloud Engineer** at **Stratpoint**
+- 👩🏽‍🎓 BS Information Technology Graduate from the Polytechnic University of the Philippines - Main Campus
 - 🎮 Hobbies are Voxel Art, Learning Languages with Duolingo, Coding, and Cozy Games
-- 🛜 Graduated in AWS Re/Start by Edukasyon.ph  - PHMAN23
+- 🛜 Graduated in AWS Re/Start by Edukasyon.ph - PHMAN23
 
 <div align="center">
 
@@ -20,6 +21,21 @@
   - Google Developers Student Club - PUP Main
   - AWS Cloud Club - PUP Manila
 
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&duration=3000&pause=1000&color=F47FBB&vCenter=true&repeat=false&random=false&lines=%F0%9D%93%92%F0%9D%93%AE%F0%9D%93%BB%F0%9D%93%BD%F0%9D%93%B2%F0%9D%93%AF%F0%9D%93%B2%F0%9D%93%AC%F0%9D%93%AA%F0%9D%93%BD%F0%9D%93%B2%F0%9D%93%B8%F0%9D%93%B7%F0%9D%93%BC)](https://git.io/typing-svg)
+
+<div align="center">
+
+| 📜 Licenses & Certifications | Issuer | Issued |
+| :--- | :--- | :--- |
+| **AWS Certified CloudOps Engineer – Associate** | Amazon Web Services (AWS) | Oct 2026 |
+| **Google Cloud Certified Associate Cloud Engineer** | Google | Jul 2026 |
+| **Huawei HCCDA - Tech Essentials Certification** | Huawei | Oct 2025 |
+| **Associate Google Workspace Administrator Certification** | Google | Jul 2025 |
+| **AWS Certified Cloud Practitioner** | Amazon Web Services (AWS) | Jan 2025 |
+| **AWS Re/Start** | Edukasyon.ph | Oct 2024 |
+
+</div>
+
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&duration=3000&pause=1000&color=F47FBB&vCenter=true&repeat=false&random=false&lines=%F0%9D%93%99%F0%9D%93%BE%F0%9D%93%BC%F0%9D%93%BD+%F0%9D%93%9A%F0%9D%93%AE%F0%9D%93%AE%F0%9D%93%B9+%F0%9D%93%92%F0%9D%93%B8%F0%9D%93%AD%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%B0)](https://git.io/typing-svg)
 
 <div align="center">
@@ -32,6 +48,10 @@
 </div>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&duration=3000&pause=1000&color=F47FBB&vCenter=true&repeat=false&random=false&lines=%F0%9D%93%A3%F0%9D%93%AE%F0%9D%93%AC%F0%9D%93%B1+%F0%9D%93%A2%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%AC%F0%9D%93%B4%F0%9D%93%BC)](https://git.io/typing-svg)
+
+![Static Badge](https://img.shields.io/badge/AWS---?style=for-the-badge&logo=AmazonWebServices&logoColor=black&color=white)
+![Static Badge](https://img.shields.io/badge/Google%20Cloud---?style=for-the-badge&logo=GoogleCloud&logoColor=black&color=white)
+![Static Badge](https://img.shields.io/badge/Huawei%20Cloud---?style=for-the-badge&logo=Huawei&logoColor=black&color=white)
 
 ![Static Badge](https://img.shields.io/badge/Python---?style=for-the-badge&logo=Python&logoColor=black&color=white)
 ![Static Badge](https://img.shields.io/badge/C%23---?style=for-the-badge&logo=Csharp&logoColor=black&color=white)
@@ -46,7 +66,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&duration=3000&pause=1000&color=F47FBB&vCenter=true&repeat=false&random=false&lines=%F0%9D%93%95%F0%9D%93%B5%F0%9D%94%82+%F0%9D%94%80%F0%9D%93%B2%F0%9D%93%BD%F0%9D%93%B1+%F0%9D%93%9C%F0%9D%93%AE)](https://git.io/typing-svg)
 
-- ![Static Badge](https://img.shields.io/badge/gmail-renee.j.sarmiento%40gmail.com-purple?style=social&logo=Gmail&link=mailto%3Arenee.j.sarmiento%40gmail.com)
+- ![Static Badge](https://img.shields.io/badge/email-larnierenee.ramos%40gmail.com-purple?style=social&logo=Gmail&link=mailto%3Alarnierenee.ramos%40gmail.com)
 - ![Static Badge](https://img.shields.io/badge/Discord-CptRainy-blue?style=social&logo=Discord&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F435769328059678720)
 - ![Static Badge](https://img.shields.io/badge/Duolingo-KapitanUlan-blue?style=social&logo=Duolingo&link=https%3A%2F%2Fwww.duolingo.com%2Fprofile%2FKapitanUlan)
 - ![Static Badge](https://img.shields.io/badge/FreeCodeCamp-CptRainy-black?style=social&logo=freecodecamp&color=white&link=https%3A%2F%2Fwww.freecodecamp.org%2FCptRainy)
@@ -54,13 +74,10 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&duration=3000&pause=1000&color=F47FBB&vCenter=true&repeat=false&random=false&width=500&lines=%F0%9D%93%A3%F0%9D%93%B1%F0%9D%93%AE+%F0%9D%93%95%F0%9D%93%BB%F0%9D%93%B2%F0%9D%93%AE%F0%9D%93%B7%F0%9D%93%AD%F0%9D%93%BC+%F0%9D%93%A6%F0%9D%93%AE+%F0%9D%93%9C%F0%9D%93%AA%F0%9D%93%AD%F0%9D%93%AE+%F0%9D%93%90%F0%9D%93%B5%F0%9D%93%B8%F0%9D%93%B7%F0%9D%93%B0+%F0%9D%93%A3%F0%9D%93%B1%F0%9D%93%AE+%F0%9D%93%A6%F0%9D%93%AA%F0%9D%94%82)](https://git.io/typing-svg)
 <div align="center">
-    
-<a href="https://www.codedex.io/@cptrainy/30-nites-of-code" style="margin-right: 20px;">![@cptrainy #30NitesOfCode](https://www.codedex.io/api/petStatus?user=cptrainy)</a>
+
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1k8n9sq6tzizdeah7zfr2s8vl&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1k8n9sq6tzizdeah7zfr2s8vl&redirect=true)
 <img src="https://duolingo-stats-card.vercel.app/api?username=KapitanUlan&theme=nightowl" alt="Duolingo Stats"/>
 
     
 
 </div>
-
