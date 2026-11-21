@@ -1,4 +1,4 @@
-<img src="assets/banner.png">
+<img src="assets/banner-2026.png">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&pause=1000&color=F47FBB&repeat=false&random=false&lines=+%F0%9D%93%A2%F0%9D%93%B1%F0%9D%93%B8%F0%9D%93%BB%F0%9D%93%BD+%F0%9D%93%91%F0%9D%93%B2%F0%9D%93%B8+)](https://git.io/typing-svg)
 ---
